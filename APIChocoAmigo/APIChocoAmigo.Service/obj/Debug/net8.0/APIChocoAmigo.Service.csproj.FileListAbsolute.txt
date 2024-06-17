@@ -1,0 +1,17 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\obj\Debug\net8.0\APIChocoAmigo.Service.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\obj\Debug\net8.0\APIChocoAmigo.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\obj\Debug\net8.0\APIChocoAmigo.Service.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\obj\Debug\net8.0\APIChocoAmigo.Service.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\obj\Debug\net8.0\APIChocoAmigo.Service.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\bin\Debug\net8.0\APIChocoAmigo.Service.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\bin\Debug\net8.0\APIChocoAmigo.Service.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\bin\Debug\net8.0\APIChocoAmigo.Service.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\bin\Debug\net8.0\APIChocoAmigo.Domain.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\bin\Debug\net8.0\APIChocoAmigo.Repository.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\bin\Debug\net8.0\APIChocoAmigo.Domain.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\bin\Debug\net8.0\APIChocoAmigo.Repository.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\obj\Debug\net8.0\APIChoco.F895E744.Up2Date
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\obj\Debug\net8.0\APIChocoAmigo.Service.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\obj\Debug\net8.0\refint\APIChocoAmigo.Service.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\obj\Debug\net8.0\APIChocoAmigo.Service.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Service\obj\Debug\net8.0\ref\APIChocoAmigo.Service.dll

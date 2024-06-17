@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1- Domain", "1- Domain", "{964D6CF1-A3D1-4432-9ED5-EF3FDB107C49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2- Repository", "2- Repository", "{B55E297A-47A8-4FF4-B16F-A628F4CF4947}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3- Service", "3- Service", "{5BB906F0-06A2-4516-8753-10E3476025CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4- Web", "4- Web", "{59F5F146-A47B-4882-932A-7DDC4DC5D231}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIChocoAmigo.Domain", "APIChocoAmigo.Domain\APIChocoAmigo.Domain.csproj", "{4AF0944B-51BD-4A2A-89FC-4F6D22C0DA63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIChocoAmigo.Repository", "APIChocoAmigo.Repository\APIChocoAmigo.Repository.csproj", "{BF8575CE-E40A-429D-A5C8-DC220F5F58E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIChocoAmigo.Service", "APIChocoAmigo.Service\APIChocoAmigo.Service.csproj", "{0333FF1C-076D-4B60-A66F-0BA0F280059B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIChocoAmigo.Web", "APIChocoAmigo.Web\APIChocoAmigo.Web.csproj", "{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AF0944B-51BD-4A2A-89FC-4F6D22C0DA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF0944B-51BD-4A2A-89FC-4F6D22C0DA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF0944B-51BD-4A2A-89FC-4F6D22C0DA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF0944B-51BD-4A2A-89FC-4F6D22C0DA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8575CE-E40A-429D-A5C8-DC220F5F58E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8575CE-E40A-429D-A5C8-DC220F5F58E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8575CE-E40A-429D-A5C8-DC220F5F58E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8575CE-E40A-429D-A5C8-DC220F5F58E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0333FF1C-076D-4B60-A66F-0BA0F280059B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0333FF1C-076D-4B60-A66F-0BA0F280059B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0333FF1C-076D-4B60-A66F-0BA0F280059B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0333FF1C-076D-4B60-A66F-0BA0F280059B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4AF0944B-51BD-4A2A-89FC-4F6D22C0DA63} = {964D6CF1-A3D1-4432-9ED5-EF3FDB107C49}
+		{BF8575CE-E40A-429D-A5C8-DC220F5F58E7} = {B55E297A-47A8-4FF4-B16F-A628F4CF4947}
+		{0333FF1C-076D-4B60-A66F-0BA0F280059B} = {5BB906F0-06A2-4516-8753-10E3476025CC}
+		{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78} = {59F5F146-A47B-4882-932A-7DDC4DC5D231}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0229F534-9620-4A06-A091-4F063D220A79}
+	EndGlobalSection
+EndGlobal

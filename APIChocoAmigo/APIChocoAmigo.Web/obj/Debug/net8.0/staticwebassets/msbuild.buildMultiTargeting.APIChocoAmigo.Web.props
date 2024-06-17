@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APIChocoAmigo.Web.props" />
+</Project>

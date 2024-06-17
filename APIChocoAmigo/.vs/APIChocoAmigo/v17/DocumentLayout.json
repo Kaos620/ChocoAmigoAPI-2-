@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}|APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}|APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj|solutionrelative:apichocoamigo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}|APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}|APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj|solutionrelative:apichocoamigo.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\viewmodel\\grupo\\grupoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\viewmodel\\grupo\\grupoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\interfaces\\iparticipantegruposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\interfaces\\iparticipantegruposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}|APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.web\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}|APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj|solutionrelative:apichocoamigo.web\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}|APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.web\\controllers\\sorteiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}|APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj|solutionrelative:apichocoamigo.web\\controllers\\sorteiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}|APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.web\\controllers\\participantegrupocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}|APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj|solutionrelative:apichocoamigo.web\\controllers\\participantegrupocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}|APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.web\\controllers\\grupocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F7581B-D827-4C4A-8F30-3FC5B8B15F78}|APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj|solutionrelative:apichocoamigo.web\\controllers\\grupocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\automapper\\domaintoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\automapper\\domaintoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\automapper\\applicationtodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\automapper\\applicationtodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\services\\sorteioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\services\\sorteioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\services\\participantegruposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\services\\participantegruposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\interfaces\\igruposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\interfaces\\igruposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\interfaces\\isorteioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\interfaces\\isorteioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\services\\gruposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\services\\gruposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\viewmodel\\usuario\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\viewmodel\\usuario\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\viewmodel\\usuario\\novousuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\viewmodel\\usuario\\novousuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\viewmodel\\sorteio\\sorteioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\viewmodel\\sorteio\\sorteioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\viewmodel\\sorteio\\novosorteioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\viewmodel\\sorteio\\novosorteioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\viewmodel\\participantegrupo\\participantegrupoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\viewmodel\\participantegrupo\\participantegrupoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\viewmodel\\participantegrupo\\novoparticipantegrupoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\viewmodel\\participantegrupo\\novoparticipantegrupoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\viewmodel\\grupo\\novogrupoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\viewmodel\\grupo\\novogrupoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\amigochocolate\\apichocoamigo\\apichocoamigo.service\\apichocoamigo.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0333FF1C-076D-4B60-A66F-0BA0F280059B}|APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj|solutionrelative:apichocoamigo.service\\apichocoamigo.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GrupoController.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\Controllers\\GrupoController.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Web\\Controllers\\GrupoController.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\Controllers\\GrupoController.cs",
+              "RelativeToolTip": "APIChocoAmigo.Web\\Controllers\\GrupoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:51:53.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\appsettings.json",
+              "RelativeToolTip": "APIChocoAmigo.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T00:49:16.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\Program.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\Program.cs",
+              "RelativeToolTip": "APIChocoAmigo.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:44:39.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SorteioService.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Services\\SorteioService.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\Services\\SorteioService.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Services\\SorteioService.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\Services\\SorteioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:35:49.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GrupoService.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Services\\GrupoService.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\Services\\GrupoService.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Services\\GrupoService.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\Services\\GrupoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:35:23.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISorteioService.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Interfaces\\ISorteioService.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\Interfaces\\ISorteioService.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Interfaces\\ISorteioService.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\Interfaces\\ISorteioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:34:59.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGrupoService.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Interfaces\\IGrupoService.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\Interfaces\\IGrupoService.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Interfaces\\IGrupoService.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\Interfaces\\IGrupoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:34:24.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IParticipanteGrupoService.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Interfaces\\IParticipanteGrupoService.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\Interfaces\\IParticipanteGrupoService.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Interfaces\\IParticipanteGrupoService.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\Interfaces\\IParticipanteGrupoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:34:43.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GrupoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\Grupo\\GrupoViewModel.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\ViewModel\\Grupo\\GrupoViewModel.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\Grupo\\GrupoViewModel.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\ViewModel\\Grupo\\GrupoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:32:27.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\Usuario\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\ViewModel\\Usuario\\UsuarioViewModel.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\Usuario\\UsuarioViewModel.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\ViewModel\\Usuario\\UsuarioViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:33:46.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NovoUsuarioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\Usuario\\NovoUsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\ViewModel\\Usuario\\NovoUsuarioViewModel.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\Usuario\\NovoUsuarioViewModel.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\ViewModel\\Usuario\\NovoUsuarioViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:33:58.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:35:12.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\Services\\UsuarioService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:35:58.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParticipanteGrupoController.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\Controllers\\ParticipanteGrupoController.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Web\\Controllers\\ParticipanteGrupoController.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\Controllers\\ParticipanteGrupoController.cs",
+              "RelativeToolTip": "APIChocoAmigo.Web\\Controllers\\ParticipanteGrupoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:52:17.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SorteioController.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\Controllers\\SorteioController.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Web\\Controllers\\SorteioController.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\Controllers\\SorteioController.cs",
+              "RelativeToolTip": "APIChocoAmigo.Web\\Controllers\\SorteioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:52:31.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Web\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "APIChocoAmigo.Web\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:52:43.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParticipanteGrupoService.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Services\\ParticipanteGrupoService.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\Services\\ParticipanteGrupoService.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\Services\\ParticipanteGrupoService.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\Services\\ParticipanteGrupoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:35:36.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationToDomain.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\AutoMapper\\ApplicationToDomain.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\AutoMapper\\ApplicationToDomain.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\AutoMapper\\ApplicationToDomain.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\AutoMapper\\ApplicationToDomain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:30:25.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DomainToApplication.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\AutoMapper\\DomainToApplication.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\AutoMapper\\DomainToApplication.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\AutoMapper\\DomainToApplication.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\AutoMapper\\DomainToApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:30:40.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SorteioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\Sorteio\\SorteioViewModel.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\ViewModel\\Sorteio\\SorteioViewModel.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\Sorteio\\SorteioViewModel.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\ViewModel\\Sorteio\\SorteioViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:33:20.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NovoSorteioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\Sorteio\\NovoSorteioViewModel.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\ViewModel\\Sorteio\\NovoSorteioViewModel.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\Sorteio\\NovoSorteioViewModel.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\ViewModel\\Sorteio\\NovoSorteioViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:33:28.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ParticipanteGrupoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\ParticipanteGrupo\\ParticipanteGrupoViewModel.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\ViewModel\\ParticipanteGrupo\\ParticipanteGrupoViewModel.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\ParticipanteGrupo\\ParticipanteGrupoViewModel.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\ViewModel\\ParticipanteGrupo\\ParticipanteGrupoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:32:50.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NovoParticipanteGrupoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\ParticipanteGrupo\\NovoParticipanteGrupoViewModel.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\ViewModel\\ParticipanteGrupo\\NovoParticipanteGrupoViewModel.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\ParticipanteGrupo\\NovoParticipanteGrupoViewModel.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\ViewModel\\ParticipanteGrupo\\NovoParticipanteGrupoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:33:09.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NovoGrupoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\Grupo\\NovoGrupoViewModel.cs",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\ViewModel\\Grupo\\NovoGrupoViewModel.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\ViewModel\\Grupo\\NovoGrupoViewModel.cs",
+              "RelativeToolTip": "APIChocoAmigo.Service\\ViewModel\\Grupo\\NovoGrupoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:32:37.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "APIChocoAmigo.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj",
+              "RelativeDocumentMoniker": "APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj",
+              "RelativeToolTip": "APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T00:29:26.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Repository\bin\Debug\net8.0\APIChocoAmigo.Repository.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Repository\bin\Debug\net8.0\APIChocoAmigo.Repository.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Repository\bin\Debug\net8.0\APIChocoAmigo.Repository.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Repository\bin\Debug\net8.0\APIChocoAmigo.Domain.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Repository\bin\Debug\net8.0\APIChocoAmigo.Domain.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Repository\obj\Debug\net8.0\APIChocoAmigo.Repository.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Repository\obj\Debug\net8.0\APIChocoAmigo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Repository\obj\Debug\net8.0\APIChocoAmigo.Repository.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Repository\obj\Debug\net8.0\APIChocoAmigo.Repository.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Repository\obj\Debug\net8.0\APIChocoAmigo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Repository\obj\Debug\net8.0\APIChoco.C30C6BDF.Up2Date
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Repository\obj\Debug\net8.0\APIChocoAmigo.Repository.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Repository\obj\Debug\net8.0\refint\APIChocoAmigo.Repository.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Repository\obj\Debug\net8.0\APIChocoAmigo.Repository.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\APIChocoAmigo\APIChocoAmigo.Repository\obj\Debug\net8.0\ref\APIChocoAmigo.Repository.dll

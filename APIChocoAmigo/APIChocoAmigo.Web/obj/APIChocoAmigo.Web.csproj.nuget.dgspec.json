@@ -1,0 +1,291 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Domain\\APIChocoAmigo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Domain\\APIChocoAmigo.Domain.csproj",
+        "projectName": "APIChocoAmigo.Domain",
+        "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Domain\\APIChocoAmigo.Domain.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Repository\\APIChocoAmigo.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Repository\\APIChocoAmigo.Repository.csproj",
+        "projectName": "APIChocoAmigo.Repository",
+        "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Repository\\APIChocoAmigo.Repository.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Domain\\APIChocoAmigo.Domain.csproj": {
+                "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Domain\\APIChocoAmigo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj",
+        "projectName": "APIChocoAmigo.Service",
+        "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Domain\\APIChocoAmigo.Domain.csproj": {
+                "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Domain\\APIChocoAmigo.Domain.csproj"
+              },
+              "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Repository\\APIChocoAmigo.Repository.csproj": {
+                "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Repository\\APIChocoAmigo.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj",
+        "projectName": "APIChocoAmigo.Web",
+        "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\APIChocoAmigo.Web.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Repository\\APIChocoAmigo.Repository.csproj": {
+                "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Repository\\APIChocoAmigo.Repository.csproj"
+              },
+              "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj": {
+                "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\APIChocoAmigo\\APIChocoAmigo.Service\\APIChocoAmigo.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
